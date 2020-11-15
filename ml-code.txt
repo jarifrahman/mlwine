@@ -8,7 +8,7 @@ import pandas as pd
 # Load dataset
 # load the data file as a Pandas data frame and analyze the data
 
-df = pd.read_csv(r"c:\Users\azander\Downloads\iris.csv")
+df = pd.read_csv(r"iris.csv")
 
 # Split-out validation dataset
 # Split into training data and test data
